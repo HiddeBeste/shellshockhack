@@ -13,7 +13,7 @@
 {"name":"animatedThumbnailsBookmarklet","description":null,"author":null,"@type":"WebSite","url":"https://worldlanguages.github.io/animatedThumbnailsBookmarklet/","image":null,"publisher":null,"headline":"animatedThumbnailsBookmarklet","dateModified":null,"datePublished":null,"sameAs":null,"mainEntityOfPage":null,"@context":"http://schema.org"}</script>
 <!-- End crackware tag -->
 
-    <style class="anchorjs"></style><link href="/shellshockhack?v=2bda4bc6dfc0cfbb6a1bdd45071b3149f0485179" rel="stylesheet">
+    <style class="anchorjs"></style><link href="/crackware?v=2bda4bc6dfc0cfbb6a1bdd45071b3149f0485179" rel="stylesheet">
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
