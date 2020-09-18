@@ -3,7 +3,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <!-- Begin Jekyll SEO tag v2.3.0 -->
-<title>Shellshock.io hack</title>
 <meta property="og:title" content="//dl.dropboxusercontent.com/s/wjuz0lovxa00an3/5shellshock.min.js">
 <meta property="og:locale" content="en_US">
 <link rel="canonical" href="https://dl.dropboxusercontent.com/s/wjuz0lovxa00an3/5shellshock.min.js">
